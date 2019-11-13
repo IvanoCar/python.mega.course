@@ -1,0 +1,5 @@
+45.328616, 14.466992;Odjel za informatiku
+45.328744, 14.466724;Odjel za fiziku
+45.328785, 14.468049;Gradevinski fakultet
+45.327956, 14.465935;Filozofski fakultet
+45.327036, 14.466727;Akademija primjenjennih umjetnosti
